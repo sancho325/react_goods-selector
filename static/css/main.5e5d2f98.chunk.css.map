@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,cACE,wBAA6B,CAC7B,6BAAA,CAAA,qBAAsB","file":"main.5e5d2f98.chunk.css","sourcesContent":["// styles go here\n.selectedGood {\n  background-color: yellowgreen;\n  max-width: max-content;\n}\n"]}
